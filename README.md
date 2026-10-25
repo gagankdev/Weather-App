@@ -60,6 +60,7 @@ Try the application directly in your browser:
 ### 👉 [Open My Weather App](https://gagankdev.github.io/Weather-App/)
 
 Enter a city name in the search field and click **Search** to look up the location.
+![Uploading image.png…]()
 
 ---
 
